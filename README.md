@@ -55,18 +55,10 @@ O sistema é dividido em componentes que conversam entre si, cada um com uma res
 - **Banco de dados**: guarda histórico, carteiras e logs de auditoria (imutáveis).
 - **Notificações**: avisa o investidor sobre o que aconteceu com sua ordem.
 
-## 🛠️ Tecnologias sugeridas
+## 🛠️ Tecnologias 
 
-> Ajuste esta seção conforme as escolhas reais da equipe.
+> Em fase de estruturação
 
-| Camada | Sugestão |
-|---|---|
-| Frontend | React / Angular |
-| Backend | Node.js, Java (Spring) ou .NET |
-| Comunicação em tempo real | WebSocket |
-| Banco de dados | PostgreSQL (dados) + banco de logs imutável |
-| Mensageria (entre serviços) | Kafka / RabbitMQ |
-| Autenticação | OAuth2 + MFA |
 
 ## 👥 Equipe
 
