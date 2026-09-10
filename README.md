@@ -63,6 +63,6 @@ O sistema é dividido em componentes que conversam entre si, cada um com uma res
 ## 👥 Equipe
 
 | Leonardo Aquino Cruz |
-| Victor Esteves Gallo Pirello|
+| Victor Esteves Gallo Birello|
 
 
